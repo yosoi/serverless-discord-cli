@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-serverlessdiscordcli-dev-104628-authRole",
+      "UnauthRoleArn": "arn:aws:iam::748706229283:role/amplify-serverlessdiscordcli-dev-104628-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::748706229283:role/amplify-serverlessdiscordcli-dev-104628-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-serverlessdiscordcli-dev-104628-deployment",
+      "UnauthRoleName": "amplify-serverlessdiscordcli-dev-104628-unauthRole",
+      "StackName": "amplify-serverlessdiscordcli-dev-104628",
+      "StackId": "arn:aws:cloudformation:us-east-1:748706229283:stack/amplify-serverlessdiscordcli-dev-104628/8e9c2ad0-2ffe-11eb-a204-0a00c5160c23",
+      "AmplifyAppId": "d1z6pxekellgv2"
+    }
+  }
+}

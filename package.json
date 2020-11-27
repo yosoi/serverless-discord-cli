@@ -1,0 +1,26 @@
+{
+  "name": "serverless-discord",
+  "version": "1.0.0",
+  "description": "Bot servers as a service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "Serverless",
+    "CLI"
+  ],
+  "author": "Ben Rosen",
+  "license": "ISC",
+  "dependencies": {
+    "aws-amplify": "^3.3.10",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "configstore": "^5.0.1",
+    "figlet": "^1.5.0",
+    "open": "^7.3.0",
+    "validator": "^13.1.17",
+    "vorpal": "^1.12.0"
+  }
+}
